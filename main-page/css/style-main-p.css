@@ -1,0 +1,31 @@
+/*Style for the main page*/
+
+.container{
+  font-family: 'Lato', sans-serif;
+}
+
+.logo-box{
+  /*border: 1px solid #EEE;*/
+  color: #C14;
+}
+
+.nav-box{
+  /*border: 1px solid #EEE;*/
+}
+
+.header-box{
+  background-image: url("elements/cover_exp.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  color: #FFF;
+  font-size: 25px;
+  text-align: center;
+}
+
+.footer-box{
+  background: #999;
+  border-radius: 10px;
+  color: #FFF;
+  padding: 20px;
+}

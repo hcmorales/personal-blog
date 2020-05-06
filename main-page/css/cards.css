@@ -1,0 +1,77 @@
+/* Preview cards for blog posts*/
+
+.card{
+  /*border: 1px solid #EEE;*/
+  background: #EEE;
+  border-radius: 10px;
+}
+/*Images*/
+#img-c-1{
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-image: url("elements/cover_ex_b1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#img-c-2{
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-image: url("elements/cover-cocre.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#img-c-3{
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-image: url("elements/field-research.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#img-c-4{
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-image: url("elements/proto_arduino.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#img-c-5{
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-image: url("elements/friendly-ui.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#img-c-6{
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-image: url("elements/cover data.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.title-card{
+  padding-left: 20px;
+  padding-top: 20px;
+  color: #C14;
+}
+
+.para-card{
+  padding: 20px;
+}
+
+.read-card{
+  padding-right: 20px;
+  color: #999;
+  text-align: right;
+}

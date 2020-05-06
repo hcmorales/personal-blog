@@ -1,0 +1,37 @@
+/*Buttons for blog*/
+.b-hd{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+  border: 0;
+  border-radius: 10px;
+  line-height: 2;
+  padding: 0 30px;
+  background-color: #C14;
+  cursor: pointer;
+}
+
+.b-hd:hover{
+  background-color: #E26;
+}
+
+.b-card{
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color: #C14;
+  border: 1px solid #C14;
+  border-radius: 7px;
+  line-height: 1.5;
+  padding: 0 15px;
+  background-color: #EEE;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.b-card:hover{
+  color: #fff;
+  background-color: #C14;
+}
