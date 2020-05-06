@@ -1,0 +1,42 @@
+/*Typography styles*/
+.container{
+  font-family: 'Lato', sans-serif;
+}
+
+/*Headers*/
+h1{
+  color: #C14;
+}
+h2{
+  font-size: 45px;
+}
+
+/*Body text*/
+.underline{
+  text-decoration: underline;
+}
+
+.bold{
+  font-weight: bolder;
+}
+
+blockquote{
+  padding: 15px;
+  font-style: italic;
+}
+
+/*Links*/
+
+:link{
+  color: #000;
+  text-decoration-line: none;
+}
+
+:link:hover{
+  color: #C14;
+  text-decoration-line: none;
+}
+
+:link:active{
+  color: #C14;
+}
