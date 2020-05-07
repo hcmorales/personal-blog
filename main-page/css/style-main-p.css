@@ -20,6 +20,8 @@
 .footer-box{
   background: #999;
   border-radius: 10px;
+}
+.footer-text{
   color: #FFF;
   padding: 20px;
 }
